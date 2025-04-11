@@ -1,0 +1,51 @@
+emp_id,first_name,last_name,departments,positions,salary,hire_date,gender,email,phone
+101,Urvi,Thaman,Finance,Financial Analyst,1127699,07-04-2019,F,urvi.thaman@company.in,4131728565
+102,Riya,Ben,HR,HR Executive,723418,21-01-2021,M,riya.ben@company.in,9818447056
+103,Damini,Johal,HR,HR Manager,847462,14-11-2020,M,damini.johal@company.in,4436062089
+104,Armaan,Khare,Sales,Sales Manager,878225,31-07-2021,F,armaan.khare@company.in,8150508003
+105,Nakul,Sharma,Sales,Sales Executive,1007355,04-01-2020,M,nakul.sharma@company.in,9726812096
+106,Farhan,Karnik,Sales,Sales Executive,802406,30-10-2024,F,farhan.karnik@company.in,3080429704
+107,Jiya,Upadhyay,Sales,Sales Manager,443805,01-11-2020,M,jiya.upadhyay@company.in,5274238317
+108,Shayak,Wagle,IT,DevOps Engineer,414747,08-10-2022,M,shayak.wagle@company.in,4267150477
+109,Raunak,Lall,IT,DevOps Engineer,592016,26-05-2020,F,raunak.lall@company.in,9146343032
+110,Kiara,Gill,IT,DevOps Engineer,1076178,25-12-2021,M,kiara.gill@company.in,5271305269
+111,Kiaan,Deo,Marketing,Marketing Manager,705281,09-05-2018,M,kiaan.deo@company.in,5415781409
+112,Akarsh,Wason,Operations,Operations Manager,1015384,01-08-2022,M,akarsh.wason@company.in,3040041196
+113,Shlok,Chakrabarti,Marketing,Marketing Manager,936081,20-07-2020,F,shlok.chakrabarti@company.in,4963425097
+114,Rohan,Swamy,IT,DevOps Engineer,782510,18-11-2023,M,rohan.swamy@company.in,3264196623
+115,Madhav,Sundaram,Sales,Sales Executive,621918,10-01-2022,F,madhav.sundaram@company.in,7332123766
+116,Veer,Srivastava,Finance,Financial Analyst,919660,03-08-2022,M,veer.srivastava@company.in,794136350
+117,Aarush,Bobal,Finance,Financial Analyst,605465,23-04-2019,F,aarush.bobal@company.in,9004173974
+118,Indranil,Saraf,Operations,Operations Executive,812486,23-03-2022,F,indranil.saraf@company.in,4275613832
+119,Oorja,Dhillon,IT,Backend Developer,641028,16-11-2019,F,oorja.dhillon@company.in,3581740361
+120,Fateh,Mangat,Operations,Operations Executive,666060,14-11-2023,M,fateh.mangat@company.in,3525483983
+121,Kabir,Lanka,Finance,Accountant,599452,31-10-2020,M,kabir.lanka@company.in,8360253706
+122,Divij,Babu,HR,HR Executive,542617,30-08-2019,M,divij.babu@company.in,2137407718
+123,Kiaan,Jayaraman,Sales,Sales Executive,799696,27-10-2022,F,kiaan.jayaraman@company.in,8295503983
+124,Zara,Sandal,HR,HR Manager,916550,06-10-2018,M,zara.sandal@company.in,3658889177
+125,Vivaan,Rama,IT,DevOps Engineer,797624,18-09-2021,M,vivaan.rama@company.in,996515050
+126,Tiya,Krishna,HR,HR Manager,796423,29-07-2018,F,tiya.krishna@company.in,137971302
+127,Samiha,Sarin,Finance,Financial Analyst,422829,20-08-2021,F,samiha.sarin@company.in,4181283191
+128,Tarini,Dutt,Operations,Operations Manager,733040,03-04-2025,F,tarini.dutt@company.in,4364856327
+129,Nehmat,Toor,Finance,Financial Analyst,615110,03-10-2023,M,nehmat.toor@company.in,2251661965
+130,Raunak,Chawla,IT,Backend Developer,886840,08-03-2021,F,raunak.chawla@company.in,9316510513
+131,Aarna,Mann,Operations,Operations Executive,1072544,23-08-2020,F,aarna.mann@company.in,2226312327
+132,Arnav,Agate,Operations,Operations Executive,547277,25-08-2020,M,arnav.agate@company.in,5856598457
+133,Sahil,Majumdar,Sales,Sales Manager,506074,31-03-2019,F,sahil.majumdar@company.in,5303895902
+134,Pranay,Bandi,Marketing,Marketing Analyst,1154662,30-12-2024,M,pranay.bandi@company.in,1530987367
+135,Vidur,Karan,Finance,Accountant,623402,17-12-2023,M,vidur.karan@company.in,1130435008
+136,Darshit,Johal,IT,Software Engineer,451007,20-06-2020,M,darshit.johal@company.in,8360380618
+137,Amira,Bobal,Sales,Sales Executive,433984,27-05-2023,F,amira.bobal@company.in,1219259372
+138,Alisha,Vyas,Finance,Financial Analyst,1072497,18-06-2023,F,alisha.vyas@company.in,5862262552
+139,Priyansh,Hayre,Finance,Financial Analyst,783535,04-09-2024,M,priyansh.hayre@company.in,5206309909
+140,Yuvraj ,Garde,IT,System Analyst,683043,23-10-2022,M,yuvraj .garde@company.in,7414765222
+141,Bhamini,Dubey,IT,DevOps Engineer,928758,03-04-2021,F,bhamini.dubey@company.in,5694896146
+142,Lakshay,Tiwari,Operations,Operations Executive,857807,28-04-2022,M,lakshay.tiwari@company.in,3221582257
+143,Hridaan,Gole,Sales,Sales Executive,449988,10-03-2019,M,hridaan.gole@company.in,8020745907
+144,Inaaya ,Kata,Operations,Operations Manager,556953,14-02-2024,M,inaaya .kata@company.in,1253148395
+145,Samiha,Buch,Finance,Financial Analyst,698052,22-11-2023,F,samiha.buch@company.in,2762361978
+146,Anahi,Rao,HR,HR Executive,957313,18-02-2022,F,anahi.rao@company.in,1047450040
+147,Mamooty,Kade,HR,HR Executive,576018,19-03-2022,M,mamooty.kade@company.in,1140752900
+148,Anya,Iyer,Finance,Accountant,511218,19-10-2022,M,anya.iyer@company.in,9002648758
+149,Samarth,Sarkar,HR,HR Manager,568347,06-09-2021,M,samarth.sarkar@company.in,8979760588
+150,Vritika,Yadav,Operations,Operations Executive,1055088,19-03-2022,F,vritika.yadav@company.in,4418977511
