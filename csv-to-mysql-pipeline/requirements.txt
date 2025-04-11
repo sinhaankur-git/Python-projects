@@ -1,0 +1,6 @@
+Required libraries
+
+pandas
+mysql-connector-python
+
+pip install -r requirements.txt
