@@ -70,7 +70,8 @@ Generated using Matplotlib and Seaborn:
 ├── ecom-sales-data1.csv                       # Source CSV file
 ├── schema.sql                                 # SQL table creation
 ├── views.sql                                  # SQL views
-├── business-&-sql-queries.sql                 # Business SQL queries
+├── business-&-sql-queries.sql
+└── ER Diagram.png                             # EEr Diagram png file
 └── README.md                                  # This file
 ```
 
