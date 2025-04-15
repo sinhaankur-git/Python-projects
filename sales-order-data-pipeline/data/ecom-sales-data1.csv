@@ -1,0 +1,101 @@
+﻿Item_ID,Order_ID,Customer_ID,Customer_Name,Email,Registered_Date,Order_Date,Product_ID,Product_Name,Category,Quantity,Unit_Price,Total_Price,Payment_ID,Payment_Method,Country,Status
+I001,OI01,C9376,Steve Williams,thull@yahoo.com,1/18/2025,3/4/2025,P10,Wrist Watch,Accessories,4,79.92,319.68,P001,UPI,Germany,Shipped
+I002,OI02,C4578,Susan Wagner,katelynmontgomery@yahoo.com,2/4/2024,8/28/2024,P01,Adidas Hoodie,Clothing,4,549.91,2199.64,P002,Net Banking,UK,Shipped
+I003,OI03,C5104,Michele Guzman,corey15@castro-gomez.com,9/3/2024,3/30/2025,P01,Adidas Hoodie,Clothing,2,1138.59,2277.18,P003,Net Banking,India,Delivered
+I004,OI04,C2208,Christine Tran,bryan80@gmail.com,8/5/2024,12/4/2024,P02,Backpack,Accessories,2,479.02,958.04,P004,Debit Card,Germany,Shipped
+I005,OI05,C6180,Michelle Glover,vclayton@cross.com,12/11/2024,1/15/2025,P08,Office Chair,Furniture,1,543.61,543.61,P005,Net Banking,India,Delivered
+I006,OI06,C9541,Connie Pratt,udavis@bolton.com,11/23/2024,6/24/2024,P07,Nike Sneakers,Footwear,5,725.97,3629.85,P006,Debit Card,USA,Placed
+I007,OI07,C7534,Gary Nielsen,sean96@johnston-roberts.com,8/23/2024,1/10/2025,P08,Office Chair,Furniture,1,158.04,158.04,P007,Credit Card,France,Delivered
+I008,OI08,C6328,Lonnie Douglas,daviskatherine@gmail.com,1/23/2024,2/24/2025,P03,Bluetooth Speaker,Electronics,3,380.99,1142.97,P008,Credit Card,UK,Placed
+I009,OI09,C3334,Bobby Lyons,aimee33@hotmail.com,12/28/2024,4/4/2025,P02,Backpack,Accessories,2,373.15,746.3,P009,Net Banking,Germany,Shipped
+I010,OI10,C9322,Jennifer Hill,christopher91@yahoo.com,1/27/2024,11/26/2024,P06,MacBook Pro,Electronics,1,1489.97,1489.97,P010,UPI,USA,Delivered
+I011,OI11,C3044,Sarah Sanchez,thorntonnathan@gmail.com,11/20/2024,11/24/2024,P01,Adidas Hoodie,Clothing,5,450.81,2254.05,P011,Net Banking,Canada,Shipped
+I012,OI12,C9965,Antonio Logan,montoyacynthia@guzman.com,3/6/2024,8/18/2024,P08,Office Chair,Furniture,2,1446.48,2892.96,P012,Net Banking,Canada,Palced
+I013,OI13,C7306,Barbara Davis,jacobsjames@robbins.com,8/9/2024,12/2/2024,P03,Bluetooth Speaker,Electronics,1,902.5,902.5,P013,Debit Card,France,Shipped
+I014,OI14,C4059,Taylor Johnson,huffchad@gmail.com,8/19/2024,1/18/2025,P07,Nike Sneakers,Footwear,3,292.13,876.39,P014,Credit Card,France,Delivered
+I015,OI15,C3133,Jeffrey Brown,carlsonholly@yahoo.com,5/25/2024,12/18/2024,P01,Adidas Hoodie,Clothing,4,122.25,489,P015,PayPal,USA,Shipped
+I016,OI16,C9594,Tanner Harrison,tammybrown@moore.com,5/18/2024,6/27/2024,P06,MacBook Pro,Electronics,5,1031.58,5157.9,P016,Debit Card,France,Placed
+I017,OI17,C7871,Mary Smith,deborah64@gmail.com,4/4/2024,11/28/2024,P07,Nike Sneakers,Footwear,2,1344.66,2689.32,P017,Net Banking,Canada,Delivered
+I018,OI18,C6855,Judith Miller,dennis75@roberts.org,10/11/2024,11/14/2024,P03,Bluetooth Speaker,Electronics,4,997.16,3988.64,P018,Credit Card,Canada,Delivered
+I019,OI19,C6493,Jasmine Perry,wheelerholly@allen.info,8/10/2024,6/1/2024,P02,Backpack,Accessories,1,739.94,739.94,P019,PayPal,UK,Shipped
+I020,OI20,C4612,Megan Baxter,ksavage@barton-fletcher.com,10/6/2024,9/5/2024,P05,iPhone 14,Electronics,3,193.36,580.08,P020,Debit Card,Australia,Delivered
+I021,OI21,C2018,Michael Griffin,hensontroy@yahoo.com,12/1/2024,9/30/2024,P09,Sony Headphones,Electronics,3,650.67,1952.01,P021,Credit Card,Australia,Shipped
+I022,OI22,C9752,Robert Golden,amymccarty@gmail.com,6/27/2024,3/2/2025,P09,Sony Headphones,Electronics,2,86.95,173.9,P022,Net Banking,India,Placed
+I023,OI23,C4088,Victoria Morales,aaron00@hotmail.com,12/8/2024,3/2/2025,P06,MacBook Pro,Electronics,1,204.18,204.18,P023,Net Banking,Australia,Shipped
+I024,OI24,C7064,Cheryl Franklin,joshua21@nash-sanders.com,11/28/2024,11/2/2024,P02,Backpack,Accessories,1,598.99,598.99,P024,Credit Card,USA,Delivered
+I025,OI25,C4030,Jesse Sparks,desireeroth@hotmail.com,12/14/2024,4/19/2024,P02,Backpack,Accessories,1,307.99,307.99,P025,Credit Card,Germany,Placed
+I026,OI26,C1373,Christopher York,harrisjordan@potts-mays.com,12/6/2024,8/23/2024,P07,Nike Sneakers,Footwear,1,1406.71,1406.71,P026,Net Banking,Germany,Cancelled
+I027,OI27,C2146,Meredith Rios,iwatson@gmail.com,6/24/2024,3/5/2025,P02,Backpack,Accessories,1,1257.14,1257.14,P027,PayPal,USA,Delivered
+I028,OI28,C2000,Eddie Taylor,matthew51@yahoo.com,6/3/2024,6/30/2024,P01,Adidas Hoodie,Clothing,3,665.38,1996.14,P028,Net Banking,Germany,Shipped
+I029,OI29,C7410,Amanda Martin,ralph82@yahoo.com,10/7/2024,2/7/2025,P05,iPhone 14,Electronics,5,169.36,846.8,P029,PayPal,Canada,Placed
+I030,OI30,C3775,David Williams,turnermary@perry-garcia.info,10/4/2024,5/25/2024,P04,Coffee Maker,Home Appliances,4,1260.72,5042.88,P030,PayPal,Australia,Delivered
+I031,OI31,C6608,Robert Burnett,fwilson@johnson-rogers.com,12/17/2024,10/12/2024,P05,iPhone 14,Electronics,2,1271.23,2542.46,P031,Net Banking,Canada,Placed
+I032,OI32,C3864,Justin Drake,mortonjames@brown.com,8/9/2024,4/3/2025,P06,MacBook Pro,Electronics,5,1383.7,6918.5,P032,Credit Card,Germany,Delivered
+I033,OI33,C6102,Donna Mora,omiller@richards-jackson.com,7/14/2024,9/10/2024,P10,Wrist Watch,Accessories,5,1314.71,6573.55,P033,Debit Card,Germany,Delivered
+I034,OI34,C1203,Rodney Farrell,mgoodwin@crawford.com,12/17/2024,8/28/2024,P01,Adidas Hoodie,Clothing,2,849.69,1699.38,P034,UPI,India,Placed
+I035,OI35,C9918,Travis Lewis,gonzaleznicholas@wilcox.info,10/20/2024,12/15/2024,P06,MacBook Pro,Electronics,3,1113.74,3341.22,P035,Debit Card,UK,Shipped
+I036,OI36,C5716,Margaret Henderson,martha73@hotmail.com,9/4/2024,6/7/2024,P07,Nike Sneakers,Footwear,4,541.29,2165.16,P036,Debit Card,France,Delivered
+I037,OI37,C7357,Alexandra Thornton,austin24@hotmail.com,5/12/2024,12/3/2024,P02,Backpack,Accessories,2,1079.12,2158.24,P037,UPI,Australia,Delivered
+I038,OI38,C6478,James Phillips,marshzachary@gmail.com,8/11/2024,2/9/2025,P06,MacBook Pro,Electronics,1,899.97,899.97,P038,PayPal,UK,Placed
+I039,OI39,C7789,Andrew Smith,michelle27@yahoo.com,5/21/2024,5/6/2024,P07,Nike Sneakers,Footwear,4,580.4,2321.6,P039,Credit Card,Germany,Cancelled
+I040,OI40,C1766,Joseph Johnson,burgessrebecca@roberts.biz,8/14/2024,10/24/2024,P02,Backpack,Accessories,4,1162.83,4651.32,P040,PayPal,Germany,Delivered
+I041,OI41,C8313,Sarah Compton,sandovalaaron@turner.com,8/23/2024,2/25/2025,P06,MacBook Pro,Electronics,3,1058.24,3174.72,P041,Net Banking,Germany,Placed
+I042,OI42,C1637,Scott Hahn,ycruz@gmail.com,7/9/2024,8/18/2024,P08,Office Chair,Furniture,5,1138.12,5690.6,P042,UPI,Canada,Placed
+I043,OI43,C7801,Bethany Mitchell,mcmahontimothy@gmail.com,7/17/2024,6/13/2024,P01,Adidas Hoodie,Clothing,4,93.79,375.16,P043,PayPal,France,Delivered
+I044,OI44,C7583,Lindsay Miller,robert97@ellis-garcia.com,9/2/2024,10/19/2024,P06,MacBook Pro,Electronics,2,1480.5,2961,P044,UPI,Canada,Cancelled
+I045,OI45,C1038,Luis Soto,james71@bishop.org,6/12/2024,4/18/2024,P05,iPhone 14,Electronics,2,41.15,82.3,P045,Net Banking,France,Placed
+I046,OI46,C4252,Marie Montes,susanhughes@yahoo.com,10/4/2024,12/12/2024,P06,MacBook Pro,Electronics,2,195.98,391.96,P046,Debit Card,Canada,Cancelled
+I047,OI47,C7499,Tina Lucero,benjaminmyers@sherman-gibson.com,7/14/2024,4/2/2025,P09,Sony Headphones,Electronics,1,723.9,723.9,P047,Credit Card,USA,Cancelled
+I048,OI48,C2896,Amanda Scott,jerryfrank@chan.com,10/1/2024,4/28/2024,P01,Adidas Hoodie,Clothing,4,1203.74,4814.96,P048,Debit Card,UK,Delivered
+I049,OI49,C3530,Steven Henderson,perrycory@navarro.info,9/1/2024,5/25/2024,P08,Office Chair,Furniture,3,190.36,571.08,P049,Debit Card,Australia,Delivered
+I050,OI50,C5254,Amanda Calhoun,christian11@yahoo.com,9/4/2024,9/25/2024,P05,iPhone 14,Electronics,1,80.18,80.18,P050,Net Banking,Canada,Placed
+I051,OI51,C1688,Gregory Smith,chad23@harris.com,10/10/2024,1/4/2025,P04,Coffee Maker,Home Appliances,5,1366.58,6832.9,P051,Net Banking,India,Delivered
+I052,OI52,C7102,Jacob Johnson,jacobrodriguez@zimmerman-scott.com,11/28/2024,1/26/2025,P03,Bluetooth Speaker,Electronics,4,967.41,3869.64,P052,Net Banking,UK,Placed
+I053,OI53,C1145,John Carter,brittanymiller@hotmail.com,11/21/2024,6/30/2024,P07,Nike Sneakers,Footwear,4,888.95,3555.8,P053,PayPal,UK,Delivered
+I054,OI54,C7016,James Thomas,lesliesanchez@carter.com,8/30/2024,11/22/2024,P01,Adidas Hoodie,Clothing,3,519.52,1558.56,P054,Credit Card,Canada,Delivered
+I055,OI55,C3684,Alex Miller,robertpierce@house.com,8/24/2024,3/11/2025,P02,Backpack,Accessories,1,80.98,80.98,P055,PayPal,France,Cancelled
+I056,OI56,C9986,Mark Walsh,aortiz@valenzuela.info,10/20/2024,5/13/2024,P01,Adidas Hoodie,Clothing,3,604.29,1812.87,P056,PayPal,Canada,Delivered
+I057,OI57,C1790,Rebecca Hill,lhebert@reynolds-wright.info,9/9/2024,5/16/2024,P06,MacBook Pro,Electronics,4,1101.17,4404.68,P057,Debit Card,UK,Placed
+I058,OI58,C6382,Brenda Ford,sfischer@greer.org,10/28/2024,8/21/2024,P08,Office Chair,Furniture,1,467.95,467.95,P058,Debit Card,Germany,Cancelled
+I059,OI59,C8883,Edwin Mack,rogerpotter@gmail.com,10/3/2024,10/7/2024,P06,MacBook Pro,Electronics,1,850.03,850.03,P059,UPI,Canada,Delivered
+I060,OI60,C9154,Dr. Joshua Sullivan DDS,nelsonelizabeth@scott.org,12/3/2024,12/30/2024,P04,Coffee Maker,Home Appliances,1,729.05,729.05,P060,UPI,USA,Delivered
+I061,OI61,C3550,Brian King,caitlinjohnson@yahoo.com,10/13/2024,1/11/2025,P01,Adidas Hoodie,Clothing,3,1107.43,3322.29,P061,PayPal,India,Delivered
+I062,OI62,C2424,Bailey Villarreal,perrykeith@taylor.com,11/21/2024,8/7/2024,P02,Backpack,Accessories,4,1213.06,4852.24,P062,Credit Card,Australia,Shipped
+I063,OI63,C2001,Kimberly Figueroa,scott92@gmail.com,6/26/2024,9/17/2024,P06,MacBook Pro,Electronics,2,1129.81,2259.62,P063,UPI,USA,Placed
+I064,OI64,C5748,Jane Garza,michael76@woods.net,10/1/2024,5/28/2024,P06,MacBook Pro,Electronics,4,843.58,3374.32,P064,UPI,Germany,Delivered
+I065,OI65,C7034,Tyler Wallace Jr.,clayjason@yahoo.com,10/30/2024,8/12/2024,P02,Backpack,Accessories,2,646.1,1292.2,P065,PayPal,Canada,Shipped
+I066,OI66,C6873,Willie Mathis,parksjudy@foster.com,6/24/2024,10/11/2024,P02,Backpack,Accessories,2,658.21,1316.42,P066,Credit Card,USA,Placed
+I067,OI67,C4304,Melissa Acosta,karenroberts@hamilton.com,6/8/2024,7/24/2024,P05,iPhone 14,Electronics,5,688.39,3441.95,P067,Credit Card,Germany,Delivered
+I068,OI68,C1689,Javier Prince,sethfletcher@hotmail.com,11/27/2024,9/7/2024,P10,Wrist Watch,Accessories,3,326.7,980.1,P068,PayPal,France,Shipped
+I069,OI69,C7193,Thomas Wallace,yroman@hotmail.com,9/17/2024,8/11/2024,P09,Sony Headphones,Electronics,1,313,313,P069,Debit Card,France,Delivered
+I070,OI70,C8993,Jessica Harris,ojohnson@pitts.com,8/30/2024,7/5/2024,P09,Sony Headphones,Electronics,1,1483.26,1483.26,P070,PayPal,France,Cancelled
+I071,OI71,C9116,Carrie Bishop,kelsey56@brown-terry.net,11/16/2024,1/24/2025,P10,Wrist Watch,Accessories,4,1318.93,5275.72,P071,Debit Card,Australia,Delivered
+I072,OI72,C4309,Jessica Gibson,rlewis@gmail.com,12/6/2024,4/7/2025,P03,Bluetooth Speaker,Electronics,4,959.9,3839.6,P072,Net Banking,France,Delivered
+I073,OI73,C6214,Gregory Roberts,brycepatterson@arellano.net,8/15/2024,4/28/2024,P07,Nike Sneakers,Footwear,1,523.53,523.53,P073,Debit Card,USA,Delivered
+I074,OI74,C3554,Corey Franklin,marcus75@johnson-williams.com,10/19/2024,4/3/2025,P08,Office Chair,Furniture,2,1314.24,2628.48,P074,UPI,France,Placed
+I075,OI75,C2386,Joseph Lopez,emily44@heath.com,6/6/2024,5/12/2024,P01,Adidas Hoodie,Clothing,4,118.21,472.84,P075,Net Banking,Australia,Delivered
+I076,OI76,C1665,Juan Smith,zwilliams@yahoo.com,9/17/2024,4/28/2024,P05,iPhone 14,Electronics,1,353.13,353.13,P076,Debit Card,USA,Placed
+I077,OI77,C3438,Bruce Miller,robertcalhoun@salazar-meyers.net,12/4/2024,10/19/2024,P03,Bluetooth Speaker,Electronics,3,1295.62,3886.86,P077,UPI,Canada,Shipped
+I078,OI78,C9231,Jennifer Haley,rrobinson@flores-graham.net,10/23/2024,1/29/2025,P08,Office Chair,Furniture,4,1353.61,5414.44,P078,Credit Card,France,Delivered
+I079,OI79,C2251,Joshua Harris,dpalmer@hotmail.com,8/25/2024,3/26/2025,P06,MacBook Pro,Electronics,5,1141.61,5708.05,P079,UPI,Australia,Delivered
+I080,OI80,C7845,David Wilson,jessicawright@hobbs-osborn.com,12/3/2024,12/13/2024,P07,Nike Sneakers,Footwear,3,812.42,2437.26,P080,UPI,Australia,Shipped
+I081,OI81,C1335,Jessica Williams,david95@gmail.com,6/2/2024,1/24/2025,P10,Wrist Watch,Accessories,5,887.85,4439.25,P081,Credit Card,India,Delivered
+I082,OI82,C5169,Kimberly Campbell,holmesemily@brooks.com,11/11/2024,12/29/2024,P09,Sony Headphones,Electronics,3,770.15,2310.45,P082,Debit Card,USA,Delivered
+I083,OI83,C5961,Robert Tran,brenda02@yahoo.com,8/21/2024,11/23/2024,P03,Bluetooth Speaker,Electronics,3,1415.56,4246.68,P083,UPI,Germany,Shipped
+I084,OI84,C3086,Kayla Jones,shudson@young.com,12/12/2024,6/10/2024,P10,Wrist Watch,Accessories,1,262.42,262.42,P084,PayPal,Canada,Shipped
+I085,OI85,C8886,Lee Anderson,jensenanthony@hotmail.com,9/9/2024,1/31/2025,P04,Coffee Maker,Home Appliances,1,1413.96,1413.96,P085,UPI,UK,Placed
+I086,OI86,C3480,Eric Benjamin MD,vlamb@payne-padilla.com,7/24/2024,8/28/2024,P03,Bluetooth Speaker,Electronics,5,1081.44,5407.2,P086,Debit Card,Germany,Placed
+I087,OI87,C8518,James Lee,patrick03@gmail.com,9/9/2024,7/20/2024,P05,iPhone 14,Electronics,5,710.09,3550.45,P087,Credit Card,USA,Shipped
+I088,OI88,C3174,Tonya Cooper,jordanpowers@yahoo.com,9/4/2024,8/11/2024,P03,Bluetooth Speaker,Electronics,2,49.94,99.88,P088,Debit Card,USA,Shipped
+I089,OI89,C9033,Joshua Oconnor,andrew00@williams.com,9/23/2024,4/17/2024,P08,Office Chair,Furniture,3,308.56,925.68,P089,Credit Card,USA,Delivered
+I090,OI90,C6535,Haley Beck,shanethomas@thompson-murphy.biz,11/25/2024,5/6/2024,P02,Backpack,Accessories,4,929.21,3716.84,P090,Credit Card,India,Shipped
+I091,OI91,C3082,Steven Ferguson,cunninghamdavid@yahoo.com,12/19/2024,9/6/2024,P02,Backpack,Accessories,3,1187.08,3561.24,P091,UPI,Australia,Delivered
+I092,OI92,C4098,Charles Melton,riveramary@wright.com,8/23/2024,6/16/2024,P01,Adidas Hoodie,Clothing,1,788.13,788.13,P092,Credit Card,Australia,Delivered
+I093,OI93,C4120,Melinda Jackson,mpennington@oliver.com,12/9/2024,1/24/2025,P10,Wrist Watch,Accessories,4,569.94,2279.76,P093,UPI,Canada,Placed
+I094,OI94,C1655,Dawn Shaffer,garrettpamela@yahoo.com,11/7/2024,12/5/2024,P06,MacBook Pro,Electronics,1,1354.85,1354.85,P094,UPI,Canada,Delivered
+I095,OI95,C4538,Michael Ellis,jillsullivan@yahoo.com,6/15/2024,5/15/2024,P05,iPhone 14,Electronics,5,1006.44,5032.2,P095,PayPal,USA,Shipped
+I096,OI96,C6002,James Collins DVM,mejiaashley@yahoo.com,11/13/2024,2/16/2025,P08,Office Chair,Furniture,5,641.76,3208.8,P096,Credit Card,UK,Delivered
+I097,OI97,C2376,Joy Griffith,tyler04@hotmail.com,8/21/2024,4/8/2025,P10,Wrist Watch,Accessories,5,644.64,3223.2,P097,Credit Card,Germany,Shipped
+I098,OI98,C3558,Michael Park,kathrynblack@yahoo.com,8/18/2024,4/24/2024,P06,MacBook Pro,Electronics,1,634.44,634.44,P098,Credit Card,Australia,Placed
+I099,OI99,C1493,Christine Knight,brendacortez@hotmail.com,8/19/2024,3/1/2025,P03,Bluetooth Speaker,Electronics,4,1035.9,4143.6,P099,UPI,Australia,Shipped
+I100,OI100,C2152,Thomas Lam,richardsbrett@gmail.com,12/17/2024,3/17/2025,P04,Coffee Maker,Home Appliances,3,136.24,408.72,P100,Credit Card,Canada,Shipped

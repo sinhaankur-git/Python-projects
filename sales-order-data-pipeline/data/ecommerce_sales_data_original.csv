@@ -1,0 +1,101 @@
+Order_ID,Customer_ID,Customer_Name,Email,Order_Date,Product,Category,Quantity,Unit_Price,Total_Price,Payment_Method,Shipping_Country
+OI01,CUST9376,Steve Williams,thull@yahoo.com,3/4/2025,Wrist Watch,Accessories,4,79.92,319.68,UPI,Germany
+OI02,CUST4578,Susan Wagner,katelynmontgomery@yahoo.com,8/28/2024,Adidas Hoodie,Clothing,4,549.91,2199.64,Net Banking,UK
+OI03,CUST5104,Michele Guzman,corey15@castro-gomez.com,3/30/2025,Adidas Hoodie,Clothing,2,1138.59,2277.18,Net Banking,India
+OI04,CUST2208,Christine Tran,bryan80@gmail.com,12/4/2024,Backpack,Accessories,2,479.02,958.04,Debit Card,Germany
+OI05,CUST6180,Michelle Glover,vclayton@cross.com,1/15/2025,Office Chair,Furniture,1,543.61,543.61,Net Banking,India
+OI06,CUST9541,Connie Pratt,udavis@bolton.com,6/24/2024,Nike Sneakers,Footwear,5,725.97,3629.85,Debit Card,USA
+OI07,CUST7534,Gary Nielsen,sean96@johnston-roberts.com,1/10/2025,Office Chair,Furniture,1,158.04,158.04,Credit Card,France
+OI08,CUST6328,Lonnie Douglas,daviskatherine@gmail.com,2/24/2025,Bluetooth Speaker,Electronics,3,380.99,1142.97,Credit Card,UK
+OI09,CUST3334,Bobby Lyons,aimee33@hotmail.com,4/4/2025,Backpack,Accessories,2,373.15,746.3,Net Banking,Germany
+OI10,CUST9322,Jennifer Hill,christopher91@yahoo.com,11/26/2024,MacBook Pro,Electronics,1,1489.97,1489.97,UPI,USA
+OI11,CUST3044,Sarah Sanchez,thorntonnathan@gmail.com,11/24/2024,Adidas Hoodie,Clothing,5,450.81,2254.05,Net Banking,Canada
+OI12,CUST9965,Antonio Logan,montoyacynthia@guzman.com,8/18/2024,Office Chair,Furniture,2,1446.48,2892.96,Net Banking,Canada
+OI13,CUST7306,Barbara Davis,jacobsjames@robbins.com,12/2/2024,Bluetooth Speaker,Electronics,1,902.5,902.5,Debit Card,France
+OI14,CUST4059,Taylor Johnson,huffchad@gmail.com,1/18/2025,Nike Sneakers,Footwear,3,292.13,876.39,Credit Card,France
+OI15,CUST3133,Jeffrey Brown,carlsonholly@yahoo.com,12/18/2024,Adidas Hoodie,Clothing,4,122.25,489,PayPal,USA
+OI16,CUST9594,Tanner Harrison,tammybrown@moore.com,6/27/2024,MacBook Pro,Electronics,5,1031.58,5157.9,Debit Card,France
+OI17,CUST7871,Mary Smith,deborah64@gmail.com,11/28/2024,Nike Sneakers,Footwear,2,1344.66,2689.32,Net Banking,Canada
+OI18,CUST6855,Judith Miller,dennis75@roberts.org,11/14/2024,Bluetooth Speaker,Electronics,4,997.16,3988.64,Credit Card,Canada
+OI19,CUST6493,Jasmine Perry,wheelerholly@allen.info,6/1/2024,Backpack,Accessories,1,739.94,739.94,PayPal,UK
+OI20,CUST4612,Megan Baxter,ksavage@barton-fletcher.com,9/5/2024,iPhone 14,Electronics,3,193.36,580.08,Debit Card,Australia
+OI21,CUST2018,Michael Griffin,hensontroy@yahoo.com,9/30/2024,Sony Headphones,Electronics,3,650.67,1952.01,Credit Card,Australia
+OI22,CUST9752,Robert Golden,amymccarty@gmail.com,3/2/2025,Sony Headphones,Electronics,2,86.95,173.9,Net Banking,India
+OI23,CUST4088,Victoria Morales,aaron00@hotmail.com,3/2/2025,MacBook Pro,Electronics,1,204.18,204.18,Net Banking,Australia
+OI24,CUST7064,Cheryl Franklin,joshua21@nash-sanders.com,11/2/2024,Backpack,Accessories,1,598.99,598.99,Credit Card,USA
+OI25,CUST4030,Jesse Sparks,desireeroth@hotmail.com,4/19/2024,Backpack,Accessories,1,307.99,307.99,Credit Card,Germany
+OI26,CUST1373,Christopher York,harrisjordan@potts-mays.com,8/23/2024,Nike Sneakers,Footwear,1,1406.71,1406.71,Net Banking,Germany
+OI27,CUST2146,Meredith Rios,iwatson@gmail.com,3/5/2025,Backpack,Accessories,1,1257.14,1257.14,PayPal,USA
+OI28,CUST2000,Eddie Taylor,matthew51@yahoo.com,6/30/2024,Adidas Hoodie,Clothing,3,665.38,1996.14,Net Banking,Germany
+OI29,CUST7410,Amanda Martin,ralph82@yahoo.com,2/7/2025,iPhone 14,Electronics,5,169.36,846.8,PayPal,Canada
+OI30,CUST3775,David Williams,turnermary@perry-garcia.info,5/25/2024,Coffee Maker,Home Appliances,4,1260.72,5042.88,PayPal,Australia
+OI31,CUST6608,Robert Burnett,fwilson@johnson-rogers.com,10/12/2024,iPhone 14,Electronics,2,1271.23,2542.46,Net Banking,Canada
+OI32,CUST3864,Justin Drake,mortonjames@brown.com,4/3/2025,MacBook Pro,Electronics,5,1383.7,6918.5,Credit Card,Germany
+OI33,CUST6102,Donna Mora,omiller@richards-jackson.com,9/10/2024,Wrist Watch,Accessories,5,1314.71,6573.55,Debit Card,Germany
+OI34,CUST1203,Rodney Farrell,mgoodwin@crawford.com,8/28/2024,Adidas Hoodie,Clothing,2,849.69,1699.38,UPI,India
+OI35,CUST9918,Travis Lewis,gonzaleznicholas@wilcox.info,12/15/2024,MacBook Pro,Electronics,3,1113.74,3341.22,Debit Card,UK
+OI36,CUST5716,Margaret Henderson,martha73@hotmail.com,6/7/2024,Nike Sneakers,Footwear,4,541.29,2165.16,Debit Card,France
+OI37,CUST7357,Alexandra Thornton,austin24@hotmail.com,12/3/2024,Backpack,Accessories,2,1079.12,2158.24,UPI,Australia
+OI38,CUST6478,James Phillips,marshzachary@gmail.com,2/9/2025,MacBook Pro,Electronics,1,899.97,899.97,PayPal,UK
+OI39,CUST7789,Andrew Smith,michelle27@yahoo.com,5/6/2024,Nike Sneakers,Footwear,4,580.4,2321.6,Credit Card,Germany
+OI40,CUST1766,Joseph Johnson,burgessrebecca@roberts.biz,10/24/2024,Backpack,Accessories,4,1162.83,4651.32,PayPal,Germany
+OI41,CUST8313,Sarah Compton,sandovalaaron@turner.com,2/25/2025,MacBook Pro,Electronics,3,1058.24,3174.72,Net Banking,Germany
+OI42,CUST1637,Scott Hahn,ycruz@gmail.com,8/18/2024,Office Chair,Furniture,5,1138.12,5690.6,UPI,Canada
+OI43,CUST7801,Bethany Mitchell,mcmahontimothy@gmail.com,6/13/2024,Adidas Hoodie,Clothing,4,93.79,375.16,PayPal,France
+OI44,CUST7583,Lindsay Miller,robert97@ellis-garcia.com,10/19/2024,MacBook Pro,Electronics,2,1480.5,2961,UPI,Canada
+OI45,CUST1038,Luis Soto,james71@bishop.org,4/18/2024,iPhone 14,Electronics,2,41.15,82.3,Net Banking,France
+OI46,CUST4252,Marie Montes,susanhughes@yahoo.com,12/12/2024,MacBook Pro,Electronics,2,195.98,391.96,Debit Card,Canada
+OI47,CUST7499,Tina Lucero,benjaminmyers@sherman-gibson.com,4/2/2025,Sony Headphones,Electronics,1,723.9,723.9,Credit Card,USA
+OI48,CUST2896,Amanda Scott,jerryfrank@chan.com,4/28/2024,Adidas Hoodie,Clothing,4,1203.74,4814.96,Debit Card,UK
+OI49,CUST3530,Steven Henderson,perrycory@navarro.info,5/25/2024,Office Chair,Furniture,3,190.36,571.08,Debit Card,Australia
+OI50,CUST5254,Amanda Calhoun,christian11@yahoo.com,9/25/2024,iPhone 14,Electronics,1,80.18,80.18,Net Banking,Canada
+OI51,CUST1688,Gregory Smith,chad23@harris.com,1/4/2025,Coffee Maker,Home Appliances,5,1366.58,6832.9,Net Banking,India
+OI52,CUST7102,Jacob Johnson,jacobrodriguez@zimmerman-scott.com,1/26/2025,Bluetooth Speaker,Electronics,4,967.41,3869.64,Net Banking,UK
+OI53,CUST1145,John Carter,brittanymiller@hotmail.com,6/30/2024,Nike Sneakers,Footwear,4,888.95,3555.8,PayPal,UK
+OI54,CUST7016,James Thomas,lesliesanchez@carter.com,11/22/2024,Adidas Hoodie,Clothing,3,519.52,1558.56,Credit Card,Canada
+OI55,CUST3684,Alex Miller,robertpierce@house.com,3/11/2025,Backpack,Accessories,1,80.98,80.98,PayPal,France
+OI56,CUST9986,Mark Walsh,aortiz@valenzuela.info,5/13/2024,Adidas Hoodie,Clothing,3,604.29,1812.87,PayPal,Canada
+OI57,CUST1790,Rebecca Hill,lhebert@reynolds-wright.info,5/16/2024,MacBook Pro,Electronics,4,1101.17,4404.68,Debit Card,UK
+OI58,CUST6382,Brenda Ford,sfischer@greer.org,8/21/2024,Office Chair,Furniture,1,467.95,467.95,Debit Card,Germany
+OI59,CUST8883,Edwin Mack,rogerpotter@gmail.com,10/7/2024,MacBook Pro,Electronics,1,850.03,850.03,UPI,Canada
+OI60,CUST9154,Dr. Joshua Sullivan DDS,nelsonelizabeth@scott.org,12/30/2024,Coffee Maker,Home Appliances,1,729.05,729.05,UPI,USA
+OI61,CUST3550,Brian King,caitlinjohnson@yahoo.com,1/11/2025,Adidas Hoodie,Clothing,3,1107.43,3322.29,PayPal,India
+OI62,CUST2424,Bailey Villarreal,perrykeith@taylor.com,8/7/2024,Backpack,Accessories,4,1213.06,4852.24,Credit Card,Australia
+OI63,CUST2001,Kimberly Figueroa,scott92@gmail.com,9/17/2024,MacBook Pro,Electronics,2,1129.81,2259.62,UPI,USA
+OI64,CUST5748,Jane Garza,michael76@woods.net,5/28/2024,MacBook Pro,Electronics,4,843.58,3374.32,UPI,Germany
+OI65,CUST7034,Tyler Wallace Jr.,clayjason@yahoo.com,8/12/2024,Backpack,Accessories,2,646.1,1292.2,PayPal,Canada
+OI66,CUST6873,Willie Mathis,parksjudy@foster.com,10/11/2024,Backpack,Accessories,2,658.21,1316.42,Credit Card,USA
+OI67,CUST4304,Melissa Acosta,karenroberts@hamilton.com,7/24/2024,iPhone 14,Electronics,5,688.39,3441.95,Credit Card,Germany
+OI68,CUST1689,Javier Prince,sethfletcher@hotmail.com,9/7/2024,Wrist Watch,Accessories,3,326.7,980.1,PayPal,France
+OI69,CUST7193,Thomas Wallace,yroman@hotmail.com,8/11/2024,Sony Headphones,Electronics,1,313,313,Debit Card,France
+OI70,CUST8993,Jessica Harris,ojohnson@pitts.com,7/5/2024,Sony Headphones,Electronics,1,1483.26,1483.26,PayPal,France
+OI71,CUST9116,Carrie Bishop,kelsey56@brown-terry.net,1/24/2025,Wrist Watch,Accessories,4,1318.93,5275.72,Debit Card,Australia
+OI72,CUST4309,Jessica Gibson,rlewis@gmail.com,4/7/2025,Bluetooth Speaker,Electronics,4,959.9,3839.6,Net Banking,France
+OI73,CUST6214,Gregory Roberts,brycepatterson@arellano.net,4/28/2024,Nike Sneakers,Footwear,1,523.53,523.53,Debit Card,USA
+OI74,CUST3554,Corey Franklin,marcus75@johnson-williams.com,4/3/2025,Office Chair,Furniture,2,1314.24,2628.48,UPI,France
+OI75,CUST2386,Joseph Lopez,emily44@heath.com,5/12/2024,Adidas Hoodie,Clothing,4,118.21,472.84,Net Banking,Australia
+OI76,CUST1665,Juan Smith,zwilliams@yahoo.com,4/28/2024,iPhone 14,Electronics,1,353.13,353.13,Debit Card,USA
+OI77,CUST3438,Bruce Miller,robertcalhoun@salazar-meyers.net,10/19/2024,Bluetooth Speaker,Electronics,3,1295.62,3886.86,UPI,Canada
+OI78,CUST9231,Jennifer Haley,rrobinson@flores-graham.net,1/29/2025,Office Chair,Furniture,4,1353.61,5414.44,Credit Card,France
+OI79,CUST2251,Joshua Harris,dpalmer@hotmail.com,3/26/2025,MacBook Pro,Electronics,5,1141.61,5708.05,UPI,Australia
+OI80,CUST7845,David Wilson,jessicawright@hobbs-osborn.com,12/13/2024,Nike Sneakers,Footwear,3,812.42,2437.26,UPI,Australia
+OI81,CUST1335,Jessica Williams,david95@gmail.com,1/24/2025,Wrist Watch,Accessories,5,887.85,4439.25,Credit Card,India
+OI82,CUST5169,Kimberly Campbell,holmesemily@brooks.com,12/29/2024,Sony Headphones,Electronics,3,770.15,2310.45,Debit Card,USA
+OI83,CUST5961,Robert Tran,brenda02@yahoo.com,11/23/2024,Bluetooth Speaker,Electronics,3,1415.56,4246.68,UPI,Germany
+OI84,CUST3086,Kayla Jones,shudson@young.com,6/10/2024,Wrist Watch,Accessories,1,262.42,262.42,PayPal,Canada
+OI85,CUST8886,Lee Anderson,jensenanthony@hotmail.com,1/31/2025,Coffee Maker,Home Appliances,1,1413.96,1413.96,UPI,UK
+OI86,CUST3480,Eric Benjamin MD,vlamb@payne-padilla.com,8/28/2024,Bluetooth Speaker,Electronics,5,1081.44,5407.2,Debit Card,Germany
+OI87,CUST8518,James Lee,patrick03@gmail.com,7/20/2024,iPhone 14,Electronics,5,710.09,3550.45,Credit Card,USA
+OI88,CUST3174,Tonya Cooper,jordanpowers@yahoo.com,8/11/2024,Bluetooth Speaker,Electronics,2,49.94,99.88,Debit Card,USA
+OI89,CUST9033,Joshua Oconnor,andrew00@williams.com,4/17/2024,Office Chair,Furniture,3,308.56,925.68,Credit Card,USA
+OI90,CUST6535,Haley Beck,shanethomas@thompson-murphy.biz,5/6/2024,Backpack,Accessories,4,929.21,3716.84,Credit Card,India
+OI91,CUST3082,Steven Ferguson,cunninghamdavid@yahoo.com,9/6/2024,Backpack,Accessories,3,1187.08,3561.24,UPI,Australia
+OI92,CUST4098,Charles Melton,riveramary@wright.com,6/16/2024,Adidas Hoodie,Clothing,1,788.13,788.13,Credit Card,Australia
+OI93,CUST4120,Melinda Jackson,mpennington@oliver.com,1/24/2025,Wrist Watch,Accessories,4,569.94,2279.76,UPI,Canada
+OI94,CUST1655,Dawn Shaffer,garrettpamela@yahoo.com,12/5/2024,MacBook Pro,Electronics,1,1354.85,1354.85,UPI,Canada
+OI95,CUST4538,Michael Ellis,jillsullivan@yahoo.com,5/15/2024,iPhone 14,Electronics,5,1006.44,5032.2,PayPal,USA
+OI96,CUST6002,James Collins DVM,mejiaashley@yahoo.com,2/16/2025,Office Chair,Furniture,5,641.76,3208.8,Credit Card,UK
+OI97,CUST2376,Joy Griffith,tyler04@hotmail.com,4/8/2025,Wrist Watch,Accessories,5,644.64,3223.2,Credit Card,Germany
+OI98,CUST3558,Michael Park,kathrynblack@yahoo.com,4/24/2024,MacBook Pro,Electronics,1,634.44,634.44,Credit Card,Australia
+OI99,CUST1493,Christine Knight,brendacortez@hotmail.com,3/1/2025,Bluetooth Speaker,Electronics,4,1035.9,4143.6,UPI,Australia
+ORD0100,CUST2152,Thomas Lam,richardsbrett@gmail.com,3/17/2025,Coffee Maker,Home Appliances,3,136.24,408.72,Credit Card,Canada
