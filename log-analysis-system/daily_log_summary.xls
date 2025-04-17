@@ -1,0 +1,3 @@
+date,total_requests,successful_requests,failed_requests,success_rate (%)
+2025-04-15,329,89,240,27.05
+2025-04-16,171,48,123,28.07
