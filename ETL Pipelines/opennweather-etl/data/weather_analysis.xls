@@ -1,7 +1,0 @@
-query,city,temperature,avg_humidity,wind_speed
-Highest Temp,Delhi,38.06,,
-Avg Humidity,,,40.625,
-Strong Winds,Jaipur,,,5.74
-Strong Winds,New York,,,5.66
-Strong Winds,Bengaluru,,,5.22
-Strong Winds,Sydney,,,5.11

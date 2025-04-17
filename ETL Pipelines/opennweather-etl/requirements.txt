@@ -1,5 +1,0 @@
-# Requirements for OpenWeather ETL Pipeline
-pandas
-requests
-mysql-connector-python
-jupyter
