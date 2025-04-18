@@ -1,0 +1,6 @@
+# Requirements for Exchange Rates 
+ETL Pipeline
+pandas
+requests
+mysql-connector-python
+jupyter
