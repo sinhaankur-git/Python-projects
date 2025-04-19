@@ -1,0 +1,5 @@
+Requirements for GitHub ETL Pipeline
+- Python (requests, pandas, mysql-connector-pyhton)
+- GitHub API
+- MySQL
+- Jupyter Notebook
