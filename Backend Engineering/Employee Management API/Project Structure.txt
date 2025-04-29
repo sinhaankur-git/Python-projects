@@ -1,0 +1,13 @@
+
+ ✅ Clean Project Structure for Backend App
+
+ Folder: employee_api/
+ ├── app/
+ │   ├── main.py              # FastAPI entry point
+ │   ├── models.py            # SQLAlchemy models
+ │   ├── schemas.py           # Pydantic validation
+ │   ├── crud.py              # DB operations
+ │   ├── database.py          # MySQL connection + session
+ │   └── __init__.py          # Marks this folder as a module
+ ├── requirements.txt
+ └── README.md
