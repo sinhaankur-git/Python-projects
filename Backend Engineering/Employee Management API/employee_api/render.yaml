@@ -1,0 +1,7 @@
+  
+  - type: web
+    name: employee-ui
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "streamlit run employee_ui.py --server.port 10001"
